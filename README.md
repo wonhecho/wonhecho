@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WonHee Cho</h1>
 <h3 align="center">It ain't over, till it's over</h3>
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Springboot, NodeJS**
 
 - 📫 How to reach me **chowond@gmail.com**
 
